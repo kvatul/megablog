@@ -6,7 +6,7 @@ import Input from "./Input";
 import Button from "./Button";
 import Select from "./Select";
 import LogoutBtn from "./header/LogoutBtn";
-import PostCard from "./PostCard";
+import PostCard from "./Postcard";
 import AuthLayout from "./AuthLayout";
 import Login from "./Login";
 import Signup from "./Signup";
